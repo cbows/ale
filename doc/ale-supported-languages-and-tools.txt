@@ -31,6 +31,7 @@ Notes:
 * Awk
   * `gawk`
 * Bash
+  * `bashate`
   * `language-server`
   * `shell` (-n flag)
   * `shellcheck`
@@ -510,3 +511,5 @@ Notes:
   * `yamllint`
 * YANG
   * `yang-lsp`
+* Zig
+  * `zls`
